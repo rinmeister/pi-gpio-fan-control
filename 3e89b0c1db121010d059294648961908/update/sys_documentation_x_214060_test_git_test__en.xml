@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="test" language="en" table="x_214060_test_git_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>test</label>
+            <language>en</language>
+            <name>x_214060_test_git_test</name>
+            <plural>tests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-27 11:09:40</sys_created_on>
+            <sys_id>a9c5854ddb121010d0592946489619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>test</sys_name>
+            <sys_package display_value="test-git" source="x_214060_test_git">3e89b0c1db121010d059294648961908</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="test-git">3e89b0c1db121010d059294648961908</sys_scope>
+            <sys_update_name>sys_documentation_x_214060_test_git_test__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-27 11:09:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
