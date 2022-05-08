@@ -9,8 +9,8 @@ GPIO.setmode(GPIO.BOARD)
 GPIO.setup(11, GPIO.OUT)
 
 # set de drempelwaarden
-ondergrens = 59
-bovengrens = 61
+ondergrens = 60
+bovengrens = 57
 
 def meetTemperatuur():
     # Meet de temperatuur van de CPU:
