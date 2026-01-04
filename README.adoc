@@ -4,6 +4,7 @@ creates a service that can be autostarted using: systemctl enable pi-gpio-fan-co
 
 Copy:
 
+[source, bash]
 ----
 sudo cp pi-gpio-fan-control.service /etc/systemd/.
 sudo cp pi-gpio-fan-control.py /usr/local/bin/.
@@ -11,11 +12,14 @@ sudo cp pi-gpio-fan-control.py /usr/local/bin/.
 
 Enable:
 
+[source, bash]
 ----
 sudo systemctl enable /etc/systemd/pi-gpio-fan-control.service
 ----
 
 Make sure RPi.gpio python module has been installed: +
+
+[source, bash]
 ----
 sudo apt install python3-rpi.gpio
 ----
